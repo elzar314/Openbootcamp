@@ -17,9 +17,9 @@ class Main {
 }
 
  class Persona {
-    int edad=0;
-    String nombre="";
-    String telefono="";
+    private int edad=0;
+    private String nombre="";
+    private String telefono="";
 
     public int getEdad(){
       return this.edad;
