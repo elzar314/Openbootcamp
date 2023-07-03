@@ -1,10 +1,14 @@
 package eFinales;
-
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
+
+/*
+Sorpréndenos creando un programa de tu elección que utilice InputStream, PrintStream, excepciones, 
+un HashMap y un ArrayList, LinkedList o array.
+*/
 
 /*Este programa calcula tu Indice de Masa Corporal
 Luego te proporciona consejos en base a tu estado y 
