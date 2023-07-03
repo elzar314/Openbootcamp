@@ -1,5 +1,10 @@
 package eFinales;
 
+/*
+Indica cuál es el problema de utilizar un Vector con 
+la capacidad por defecto si tuviésemos 1000 elementos para ser añadidos al mismo.
+*/
+
 import java.util.Vector;
 
 public class ejercicio4 {
