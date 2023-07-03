@@ -1,8 +1,12 @@
 package eFinales;
-
 import javax.imageio.IIOException;
 import java.io.*;
 import java.util.ArrayList;
+
+/*
+Utilizando InputStream y PrintStream, crea una función que reciba dos parámetros: "fileIn" y "fileOut". 
+La tarea de la función será realizar la copia del fichero dado en el parámetro "fileIn" al fichero dado en "fileOut".
+*/
 
 public class ejercicio8 {
 
