@@ -1,5 +1,10 @@
 package eFinales;
 
+/*
+Crea un "Vector" del tipo de dato que prefieras, y añádele 5 elementos. 
+Elimina el 2o y 3er elemento y muestra el resultado final.
+*/
+
 import java.util.Vector;
 
 public class ejercicio3 {
