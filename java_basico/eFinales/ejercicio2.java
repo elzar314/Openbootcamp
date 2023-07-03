@@ -1,5 +1,10 @@
 package eFinales;
 
+/*
+Crea un array bidimensional de enteros y recórrelo, 
+mostrando la posición y el valor de cada elemento en ambas dimensiones.
+*/
+
 public class ejercicio2 {
     public static void main(String[] args) {
 
