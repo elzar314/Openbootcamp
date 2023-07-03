@@ -1,5 +1,9 @@
 package eFinales;
 
+/*Escribe el código que devuelva una cadena al revés. 
+Por ejemplo, la cadena "hola mundo", debe retornar "odnum aloh".
+*/
+
 public class ejercicio0 {
 
     public static void main(String[] args) {
