@@ -1,5 +1,10 @@
 package eFinales;
 
+/*
+Crea un ArrayList de tipo String, con 4 elementos. Cópialo en una LinkedList. 
+Recorre ambos mostrando únicamente el valor de cada elemento.
+*/
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 
